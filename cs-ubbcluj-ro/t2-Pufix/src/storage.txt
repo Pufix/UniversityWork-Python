@@ -1,0 +1,7 @@
+100,Alice,45
+101,Bob,34
+102,Charlie,56
+103,Dave,67
+104,Ed,78
+105,Fred,89
+106,Miguel,36

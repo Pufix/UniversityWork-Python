@@ -1,0 +1,152 @@
+[
+  {
+    "uuid": "4914384638",
+    "book": {
+      "uuid": "1234567890",
+      "name": "ceapa",
+      "author": "pufi",
+      "rented": false
+    },
+    "client": {
+      "uuid": "2981279202",
+      "name": "pufi"
+    },
+    "datefrom": "2020-12-04",
+    "dateto": "2022-10-05"
+  },
+  {
+    "uuid": "7719534278",
+    "book": {
+      "uuid": "1070028020",
+      "name": "Job",
+      "author": "Alexis Marshman",
+      "rented": false
+    },
+    "client": {
+      "uuid": "0042734506",
+      "name": "Gianni Muscott"
+    },
+    "datefrom": "2022-12-14",
+    "dateto": 0
+  },
+  {
+    "uuid": "2060727039",
+    "book": {
+      "uuid": "2788621984",
+      "name": "Keylex",
+      "author": "Hedwig Simcoe",
+      "rented": false
+    },
+    "client": {
+      "uuid": "3183759875",
+      "name": "Martin Lonergan"
+    },
+    "datefrom": "2022-12-14",
+    "dateto": 0
+  },
+  {
+    "uuid": "8440708213",
+    "book": {
+      "uuid": "6810843122",
+      "name": "Subin",
+      "author": "Danette Errington",
+      "rented": false
+    },
+    "client": {
+      "uuid": "3614439610",
+      "name": "Jaymie Featherston"
+    },
+    "datefrom": "2022-12-14",
+    "dateto": 0
+  },
+  {
+    "uuid": "7616714487",
+    "book": {
+      "uuid": "8633876892",
+      "name": "ceapa",
+      "author": "pufi",
+      "rented": false
+    },
+    "client": {
+      "uuid": "0042734506",
+      "name": "Gianni Muscott"
+    },
+    "datefrom": "2022-02-14",
+    "dateto": "2022-04-20"
+  },
+  {
+    "uuid": "5107013416",
+    "book": {
+      "uuid": "8785538293",
+      "name": "Cardify",
+      "author": "Edwina Jobe",
+      "rented": false
+    },
+    "client": {
+      "uuid": "4591931551",
+      "name": "Gilbertine Denzey"
+    },
+    "datefrom": "2022-10-14",
+    "dateto": "2022-12-04"
+  },
+  {
+    "uuid": "5273913096",
+    "book": {
+      "uuid": "3204790391",
+      "name": "Mat Lam Tam",
+      "author": "Berkie Albertson",
+      "rented": false
+    },
+    "client": {
+      "uuid": "0042734506",
+      "name": "Gianni Muscott"
+    },
+    "datefrom": "2022-12-14",
+    "dateto": "2022-12-14"
+  },
+  {
+    "uuid": "8059267871",
+    "book": {
+      "uuid": "0685586363",
+      "name": "onion",
+      "author": "w",
+      "rented": false
+    },
+    "client": {
+      "uuid": "2981279202",
+      "name": "pufi"
+    },
+    "datefrom": "2022-12-18",
+    "dateto": 0
+  },
+  {
+    "uuid": "9896951476",
+    "book": {
+      "uuid": "2296592726",
+      "name": "how to code",
+      "author": "pufi the great",
+      "rented": false
+    },
+    "client": {
+      "uuid": "2981279202",
+      "name": "pufi"
+    },
+    "datefrom": "2022-12-18",
+    "dateto": "2022-12-19"
+  },
+  {
+    "uuid": "7989933187",
+    "book": {
+      "uuid": "6562140288",
+      "name": "Opela",
+      "author": "Thalia Bims",
+      "rented": false
+    },
+    "client": {
+      "uuid": "5332035777",
+      "name": "Vasile"
+    },
+    "datefrom": "2022-12-19",
+    "dateto": 0
+  }
+]
